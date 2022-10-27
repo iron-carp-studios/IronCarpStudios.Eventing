@@ -1,0 +1,16 @@
+{
+    "name": "IronCarpStudios.Unity.Events.Editor",
+    "rootNamespace": "IronCarpStudios.Unity.Events.Editor",
+    "references": [
+        "GUID:ee011ae4f4b1e8845af24e9b091d8a92"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
