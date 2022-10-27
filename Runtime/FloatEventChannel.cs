@@ -1,8 +1,7 @@
-﻿using IronCarpStudios.Unity.Events;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Packages.IronCarpStudios.Events.Runtime
+namespace IronCarpStudios.Unity.Events
 {
-    [CreateAssetMenu(menuName = "Iron Carp Studios/Event Channels/Float")]
+    [CreateAssetMenu(menuName = "Iron Carp Studios/Event Channels/Floats")]
     public class FloatEventChannel : EventChannel<float> { }
 }

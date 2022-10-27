@@ -12,14 +12,4 @@ namespace IronCarpStudios.Unity.Events
             RaiseEvent?.Invoke(parameter);
         }
     }
-
-    public abstract class EventBroadcastChannels
-    {
-
-    }
-
-    public abstract class EventListenChannels
-    {
-
-    }
 }
